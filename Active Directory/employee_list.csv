@@ -1,0 +1,69 @@
+FirstName,Name,FullName,phone,email,region,country,postalZip,departments,title
+Chloe,Page,Chloe Page,6327,chloepage@bamboo.com,Yukon,Canada,Y3H 2V6,Call_center,Director
+Leonard,Marks,Leonard Marks,7418,leonardmarks@bamboo.com,Ontario,Canada,K4K 6L4,Call_center,Assistant Director
+Amal,Randall,Amal Randall,6082,amalrandall9205@bamboo.com,Northwest Territories,Canada,77Y 9H8,Call_center,Team Leader
+Florence,Giles,Florence Giles,8427,florencegiles@bamboo.com,Yukon,Canada,Y8P 0E0,Call_center,Employee
+Carly,Carpenter,Carly Carpenter,4856,carlycarpenter2123@bamboo.com,Newfoundland and Labrador,Canada,A3N 2Y8,Call_center,Employee
+Serina,Schroeder,Serina Schroeder,9153,serinaschroeder9769@bamboo.com,Newfoundland and Labrador,Canada,A1P 6X5,Call_center,Employee
+Zenia,Schroeder,Zenia Schroeder,3732,zeniaschroeder@bamboo.com,Nunavut,Canada,73H 4E2,Call_center,Employee
+Iola,Blankenship,Iola Blankenship,3831,iolablankenship@bamboo.com,Quebec,Canada,H4L 7B8,Call_center,Employee
+Grace,Mercado,Grace Mercado,6453,gracemercado9988@bamboo.com,Nunavut,Canada,47R 0P1,Call_center,Employee
+Trevor,Pitts,Trevor Pitts,2484,trevorpitts773@bamboo.com,Yukon,Canada,Y1R 7M1,Call_center,Employee
+Ria,Bowen,Ria Bowen,8566,riabowen9786@bamboo.com,Prince Edward Island,Canada,Q1J 4P8,Call_center,Employee
+Iliana,Burch,Iliana Burch,1146,ilianaburch2966@bamboo.com,Alberta,Canada,T9S 6N3,Finances,Director
+Vincent,Rosales,Vincent Rosales,6482,vincentrosales@bamboo.com,Manitoba,Canada,R7N 1R4,Finances,Assistant Director
+Guy,Stafford,Guy Stafford,7555,guystafford6499@bamboo.com,New Brunswick,Canada,H8T 2B3,Finances,Team Leader
+Lacota,Key,Lacota Key,7733,lacotakey@bamboo.com,Alberta,Canada,T1T 1G5,Finances,Employee
+Adele,Golden,Adele Golden,2581,adelegolden@bamboo.com,New Brunswick,Canada,k8X 2B2,Finances,Employee
+Connor,Cooke,Connor Cooke,7347,connorcooke@bamboo.com,Prince Edward Island,Canada,C0Y 5A1,Finances,Employee
+Christen,Mcbride,Christen Mcbride,2449,christenmcbride@bamboo.com,Newfoundland and Labrador,Canada,A4J 7K4,Finances,Employee
+Deanna,Chandler,Deanna Chandler,2534,deannachandler3659@bamboo.com,Ontario,Canada,N2C 7Z0,Finances,Employee
+Maxwell,Jefferson,Maxwell Jefferson,1948,maxwelljefferson@bamboo.com,New Brunswick,Canada,l6J 6B3,Finances,Employee
+Summer,Spears,Summer Spears,9242,summerspears7068@bamboo.com,Manitoba,Canada,R5C 6M1,Finances,Employee
+Tad,Mccray,Tad Mccray,7534,tadmccray@bamboo.com,Newfoundland and Labrador,Canada,A7C 3E9,Finances,Employee
+Xander,Jacobson,Xander Jacobson,4131,xanderjacobson7030@bamboo.com,British Columbia,Canada,O7V 1H8,Finances,Employee
+Elton,Doyle,Elton Doyle,7051,eltondoyle1522@bamboo.com,Yukon,Canada,Y1C 5P1,HR,Director
+Paula,Finch,Paula Finch,2150,paulafinch7357@bamboo.com,Saskatchewan,Canada,S1P 5Z4,HR,Assistant Director
+Cecilia,Perez,Cecilia Perez,6583,ceciliaperez@bamboo.com,Prince Edward Island,Canada,P4Z 9L2,HR,Team Leader
+Leilani,Wooten,Leilani Wooten,5812,leilaniwooten@bamboo.com,Quebec,Canada,H0T 8W4,HR,Employee
+Idona,Dorsey,Idona Dorsey,2663,idonadorsey@bamboo.com,Yukon,Canada,Y1W 8E1,HR,Employee
+Slade,Hayes,Slade Hayes,3029,sladehayes6295@bamboo.com,Saskatchewan,Canada,S2K 4S2,HR,Employee
+Julian,Rasmussen,Julian Rasmussen,7271,julianrasmussen@bamboo.com,Saskatchewan,Canada,S1K 2V6,HR,Employee
+Ruby,Chapman,Ruby Chapman,7442,rubychapman@bamboo.com,Manitoba,Canada,R4X 8M6,HR,Employee
+Brian,Duncan,Brian Duncan,8193,brianduncan2828@bamboo.com,New Brunswick,Canada,B8L 4S4,HR,Employee
+Luke,Robles,Luke Robles,7195,lukerobles2963@bamboo.com,Nunavut,Canada,16X 3L4,HR,Employee
+Lance,Battle,Lance Battle,4358,lancebattle@bamboo.com,Newfoundland and Labrador,Canada,A3L 7R5,HR,Employee
+Jack,Carlson,Jack Carlson,8119,jackcarlson1@bamboo.com,Quebec,Canada,H5B 4K8,IT,Director
+Dominic,Wagner,Dominic Wagner,1183,dominicwagner4909@bamboo.com,Northwest Territories,Canada,68M 4X9,IT,Assistant Director
+Naida,Cleveland,Naida Cleveland,9481,naidacleveland@bamboo.com,Nunavut,Canada,83V 7R5,IT,Team Leader
+Neville,Santana,Neville Santana,3760,nevillesantana@bamboo.com,New Brunswick,Canada,S5C 3P2,IT,Employee
+Ronan,Stanley,Ronan Stanley,5353,ronanstanley@bamboo.com,Saskatchewan,Canada,S4C 1S9,IT,Employee
+Herman,Sharpe,Herman Sharpe,4457,hermansharpe8200@bamboo.com,Yukon,Canada,Y3C 1P4,IT,Employee
+Denise,Gamble,Denise Gamble,8101,denisegamble7891@bamboo.com,Alberta,Canada,T4H 2S4,IT,Employee
+Randall,Bass,Randall Bass,5888,randallbass7652@bamboo.com,Ontario,Canada,N9W 1S4,IT,Employee
+Anne,Bishop,Anne Bishop,9410,annebishop@bamboo.com,Alberta,Canada,T8H 5V9,IT,Employee
+Adam,Rose,Adam Rose,6520,adamrose@bamboo.com,Newfoundland and Labrador,Canada,A1L 6V2,IT,Employee
+Upton,Salas,Upton Salas,3531,uptonsalas434@bamboo.com,Nunavut,Canada,82H 8J9,IT,Employee
+Meghan,Gordon,Meghan Gordon,4245,meghangordon@bamboo.com,Prince Edward Island,Canada,Q6X 8A8,Logistics,Director
+Mannix,Richmond,Mannix Richmond,4635,mannixrichmond3039@bamboo.com,Quebec,Canada,H5N 1V7,Logistics,Assistant Director
+Stone,George,Stone George,7113,stonegeorge@bamboo.com,Northwest Territories,Canada,38X 9J2,Logistics,Team Leader
+Rudyard,Estrada,Rudyard Estrada,8482,rudyardestrada@bamboo.com,Nunavut,Canada,47N 3S2,Logistics,Employee
+Knox,Rodriguez,Knox Rodriguez,5631,knoxrodriguez5108@bamboo.com,Yukon,Canada,Y3Y 2X2,Logistics,Employee
+Kitra,Castillo,Kitra Castillo,5181,kitracastillo@bamboo.com,Manitoba,Canada,R5G 7W3,Logistics,Employee
+Caesar,Finch,Caesar Finch,5272,caesarfinch3762@bamboo.com,Northwest Territories,Canada,76Y 6C8,Logistics,Employee
+Dorian,Stevenson,Dorian Stevenson,6764,dorianstevenson7642@bamboo.com,Yukon,Canada,Y6E 7P2,Logistics,Employee
+Rigel,Jordan,Rigel Jordan,2742,rigeljordan8747@bamboo.com,Quebec,Canada,H6K 0S9,Logistics,Employee
+Addison,Emerson,Addison Emerson,2514,addisonemerson9612@bamboo.com,Northwest Territories,Canada,38J 6B6,Logistics,Employee
+Shaine,Maxwell,Shaine Maxwell,7639,shainemaxwell237@bamboo.com,Quebec,Canada,G4V 8V3,Logistics,Employee
+Clayton,Fischer,Clayton Fischer,9761,claytonfischer@bamboo.com,Nova Scotia,Canada,B5R 6S8,Marketing,Director
+Keane,Bolton,Keane Bolton,4355,keanebolton2326@bamboo.com,Yukon,Canada,Y6N 4C3,Marketing,Assistant Director
+Brody,Rasmussen,Brody Rasmussen,5766,brodyrasmussen2300@bamboo.com,Yukon,Canada,Y0A 3M8,Marketing,Team Leader
+Reagan,Porter,Reagan Porter,3723,reaganporter@bamboo.com,Ontario,Canada,N5J 7C7,Marketing,Employee
+Alika,Roberts,Alika Roberts,7835,alikaroberts@bamboo.com,Newfoundland and Labrador,Canada,A1H 2C3,Marketing,Employee
+Shelley,Stuart,Shelley Stuart,4923,shelleystuart@bamboo.com,Newfoundland and Labrador,Canada,A4K 1G2,Marketing,Employee
+Freya,Gardner,Freya Gardner,7291,freyagardner@bamboo.com,Saskatchewan,Canada,S2W 6J8,Marketing,Employee
+Jared,Cannonier,Jared Cannonier,2807,jaredcannonier@bamboo.com,Saskatchewan,Canada,S2C 6G9,Marketing,Employee
+Hyatt,Baxter,Hyatt Baxter,5896,hyattbaxter9072@bamboo.com,Quebec,Canada,G3N 8K5,Marketing,Employee
+Kenyon,Sargent,Kenyon Sargent,4756,kenyonsargent8777@bamboo.com,Saskatchewan,Canada,S7Y 7R1,Marketing,Employee
+Upton,Colon,Upton Colon,9731,uptoncolon@bamboo.com,British Columbia,Canada,A9X 9Y4,Marketing,Employee
+Macey,Anthony,Macey Anthony,4639,maceyanthony7434@bamboo.com,Nunavut,Canada,21Z 1N5,Marketing,Employee
