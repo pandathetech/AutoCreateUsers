@@ -23,6 +23,10 @@ Run the script using sudo to ensure it has the necessary permissions to create u
 sudo ./importubuntuusers.sh
 ```
 
+Demo:
+
+![](https://github.com/pandathetech/AutoCreateUsers/blob/main/Ubuntu/Assets/Screenshot%202025-11-27%20132801.png)
+
 ### 4. Verify User Creation
 After running the script, you can verify that the users were created successfully by checking the `/etc/passwd` file. Run the following command:
 
@@ -31,3 +35,9 @@ cat /etc/passwd
 ```
 
 This will display a list of all user accounts on the system. Check that the 12 users automatically created appear in the list.
+
+> Note : The newly created users would appear at the bottom of the list.
+
+![](https://github.com/pandathetech/AutoCreateUsers/blob/main/Ubuntu/Assets/Screenshot%202025-11-27%20132854.png)
+
+![](https://github.com/pandathetech/AutoCreateUsers/blob/main/Ubuntu/Assets/Screenshot%202025-11-27%20132915.png)
